@@ -1,0 +1,3 @@
+C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir

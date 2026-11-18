@@ -1,0 +1,37 @@
+# ninja log v7
+3	143	8165053529271234	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	921afaa19ea1df9f
+3	143	8165053529271234	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	921afaa19ea1df9f
+144	32644	8165053854301193	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	a79a369113072e9f
+144	32644	8165053854301193	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	a79a369113072e9f
+32645	33268	8165053854401876	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	4998f8478571dcd6
+32645	33268	8165053854401876	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	4998f8478571dcd6
+33268	33392	8165053861789236	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	1cd8a74deb44d701
+33268	33392	8165053861789236	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	1cd8a74deb44d701
+33392	33521	8165053863072853	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	b34fc990a9710247
+33392	33521	8165053863072853	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	b34fc990a9710247
+33521	33657	8165053864436605	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	9533fe960cd84230
+33521	33657	8165053864436605	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	9533fe960cd84230
+33657	33787	8165053865730785	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	ac3a8d912db8059a
+33657	33787	8165053865730785	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	ac3a8d912db8059a
+33787	33922	8165053867073035	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	1a5fd231a5ea4773
+33787	33922	8165053867073035	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	1a5fd231a5ea4773
+33922	34106	8165053868923842	CMakeFiles/raylib-populate-complete	85731c97542f2964
+33922	34106	8165053868923842	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	85731c97542f2964
+33922	34106	8165053868923842	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	85731c97542f2964
+33922	34106	8165053868923842	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	85731c97542f2964
+7	687	8165067785345589	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	4998f8478571dcd6
+7	687	8165067785345589	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	4998f8478571dcd6
+687	788	8165067793079832	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	1cd8a74deb44d701
+687	788	8165067793079832	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	1cd8a74deb44d701
+788	878	8165067793984566	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	b34fc990a9710247
+788	878	8165067793984566	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	b34fc990a9710247
+879	992	8165067795108435	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	9533fe960cd84230
+879	992	8165067795108435	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	9533fe960cd84230
+992	1101	8165067796208521	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	ac3a8d912db8059a
+992	1101	8165067796208521	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	ac3a8d912db8059a
+1102	1197	8165067797169420	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	1a5fd231a5ea4773
+1102	1197	8165067797169420	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	1a5fd231a5ea4773
+1197	1328	8165067798486374	CMakeFiles/raylib-populate-complete	85731c97542f2964
+1197	1328	8165067798486374	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	85731c97542f2964
+1197	1328	8165067798486374	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	85731c97542f2964
+1197	1328	8165067798486374	C:/Documentos/UVG/Tercer Año/Segundo Semestre/Graficos a Computador/Proyecto 2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	85731c97542f2964
